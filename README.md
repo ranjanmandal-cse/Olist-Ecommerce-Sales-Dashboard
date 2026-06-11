@@ -41,11 +41,11 @@ Customers by State · Revenue by State · Top 10 States by Orders
 
 | Table | Records |
 |-------|---------|
-| customers | 99,441 |
-| orders | 99,441 |
-| order_items | 112,650 |
-| order_payments | 103,886 |
-
+| olist_customers | 99,441 |
+| olist_orders | 99,441 |
+| olist_order_items | 112,650 |
+| olist_order_payments | 103,886 |
+| olist_products | 32,952  |
 ---
 
 ## Data Cleaning Highlights
