@@ -1,7 +1,6 @@
 # Olist E-Commerce Sales Analytics Dashboard
 
-> Analyzed **99,441 orders** across a Brazilian e-commerce platform — uncovering that **78% of revenue flows through credit card**, **98% of orders are successfully delivered**, and **São Paulo alone accounts for 42% of the customer base**.
-
+> Analyzed **99,441 orders** across a Brazilian e-commerce platform — uncovering that **78% of revenue flows through credit card** and **98% of orders are successfully delivered**.
 ![Executive Overview](Images/page1_dashboard.png)
 
 ---
